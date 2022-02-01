@@ -1,3 +1,3 @@
-JWT_SECRET = "qweerrrrrtttyuuiiiiiooojgfddvuvm";
+JWT_SECRET = "qweerrrrrtttyuuiiiiiooojgfddsdjhdssd";
 
 module.exports = JWT_SECRET;
